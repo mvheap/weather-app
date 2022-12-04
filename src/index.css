@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+}
+
+.user-input-container {
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.button-container {
+    display: flex;
+    gap: 12px;
+}
